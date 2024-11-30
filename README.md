@@ -1,2 +1,1 @@
-# DSA-210
-DSA 210 Project. Berk Çırpan
+The project aims to analyze how weather conditions affect physical activity levels, measured by daily step count. By understanding this relationship, I aim to gain insights into my activity patterns and identify opportunities to stay active regardless of external conditions. Data Source: -Step Count Data -Weather Data.
